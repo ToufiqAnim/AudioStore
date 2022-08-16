@@ -58,37 +58,7 @@
       }
     ]
   },
-  {
-    "id": 4,
-    "category": "speakers",
-    "is_featured": false,
-    "name": "ZX9",
-    "description": "Connect via Bluetooth or nearly any wired source. This speaker features optical, digital coaxial, USB Type-B, stereo RCA, and stereo XLR inputs, allowing you to have up to five wired source devices connected for easy switching. Improved bluetooth technology offers near lossless audio quality at up to 328ft (100m). Discover clear, more natural sounding highs than the competition with ZX9’s signature planar diaphragm tweeter. Equally important is its powerful room-shaking bass courtesy of a 6.5” aluminum alloy bass unit. You’ll be able to enjoy equal sound quality whether in a large room or small den.",
-    "price": 4500,
-    "features": "These headphones have been created from durable, high-quality materials tough enough to take anywhere. Its compact folding design fuses comfort and minimalist style making it perfect for travel. Flawless transmission is assured by the latest wireless technology engineered for audio synchronization with videos. More than a simple pair of headphones, this headset features a pair of built-in microphones for clear, hands-free calling when paired with a compatible smartphone. Controlling music and calls is also intuitive thanks to easy-access touch buttons on the earcups. ",
-    "includedItems": [
-      {
-        "amount": 2,
-        "name": "Speaker Unit"
-      },
-      {
-        "amount": 2,
-        "name": "Speaker Cloth Panel"
-      },
-      {
-        "amount": 1,
-        "name": "User Manual"
-      },
-      {
-        "amount": 1,
-        "name": "3.5mm 10m Audio Cable"
-      },
-      {
-        "amount": 1,
-        "name": "10m Optical Cable"
-      }
-    ]
-  },
+  
  
   {
     "id": 6,
